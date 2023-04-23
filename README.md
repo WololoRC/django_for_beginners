@@ -1,2 +1,3 @@
-# django_for_beginners
-Learning the  django freamwork.
+# Learning the  django freamwork. #
+
+A respository to work on the projects of the book 'Django for Beginners' from William S.Vincet
